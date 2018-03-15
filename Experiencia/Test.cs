@@ -19,7 +19,7 @@ namespace Experiencia
             driver = new ChromeDriver(@"/Users/ritacristina/Downloads");
             driver.Navigate().GoToUrl(url);
             driver.Manage().Window.Maximize();
-            Thread.Sleep(2000);
+            Thread.Sleep(10000);
             IJavaScriptExecutor js = (IJavaScriptExecutor)driver;
             Dictionary<string, object> result = js.ExecuteScript(element) as Dictionary<string, object>;
             string displayedValue = result["displayedValue"].ToString();
