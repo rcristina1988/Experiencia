@@ -1,0 +1,10 @@
+/Users/ritacristina/Projects/Experiencia/Experiencia/bin/Debug/Experiencia.dll
+/Users/ritacristina/Projects/Experiencia/Experiencia/bin/Debug/Experiencia.pdb
+/Users/ritacristina/Projects/Experiencia/Experiencia/bin/Debug/nunit.framework.dll
+/Users/ritacristina/Projects/Experiencia/Experiencia/bin/Debug/WebDriver.dll
+/Users/ritacristina/Projects/Experiencia/Experiencia/bin/Debug/WebDriver.xml
+/Users/ritacristina/Projects/Experiencia/Experiencia/bin/Debug/nunit.framework.xml
+/Users/ritacristina/Projects/Experiencia/Experiencia/obj/Debug/Experiencia.csproj.CoreCompileInputs.cache
+/Users/ritacristina/Projects/Experiencia/Experiencia/obj/Debug/Experiencia.dll
+/Users/ritacristina/Projects/Experiencia/Experiencia/obj/Debug/Experiencia.pdb
+/Users/ritacristina/Projects/Experiencia/Experiencia/obj/Debug/Experiencia.csprojResolveAssemblyReference.cache
