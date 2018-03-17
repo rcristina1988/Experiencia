@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Threading;
 using NUnit.Framework;
 using OpenQA.Selenium;
@@ -24,6 +24,7 @@ namespace Experiencia
             Dictionary<string, object> result = js.ExecuteScript(element) as Dictionary<string, object>;
             string displayedValue = result["displayedValue"].ToString();
             Assert.That(displayedValue.Equals("0.00"));
+
             driver.Quit();
            
         }
